@@ -35,15 +35,14 @@ Our strategy is rooted in organization and clarity. This repository is more than
 | **Deliverable** | **Description** |
 |---|---|
 | Current Goals and Objectives | Outlined and approved by the steering committee to ensure alignment with the broader vision. |
+| List of Current Projects | Regularly updated to provide a snapshot of ongoing efforts and initiatives. |
+| New Project Proposal Review | A systematic approach to vetting and incorporating new project ideas, ensuring alignment with our objectives. |
+| Change Management for Projects | Processes in place to ensure modifications to existing projects are done thoughtfully and in alignment with our standards. |
 | Key Roles & Responsibilities | Defined to bring clarity to individual and group expectations and ensure smooth operations. |
 | Contribution Guidelines | Framed to encourage and facilitate seamless contributions from both internal team members and the wider community. |
 | Community Onboarding Process | Designed to welcome, educate, and integrate new community members, ensuring they feel valued and informed. |
-| New Project Proposal Review | A systematic approach to vetting and incorporating new project ideas, ensuring alignment with our objectives. |
-| Change Management for Projects | Processes in place to ensure modifications to existing projects are done thoughtfully and in alignment with our standards. |
-| List of Current Projects | Regularly updated to provide a snapshot of ongoing efforts and initiatives. |
 | Monthly Events Schedule | A pre-defined calendar for team synchronizations, fostering regular communication and collaboration. |
 | Event Agenda Records | Maintained to provide transparency, accountability, and historical context for our meetings and decisions. |
-
 
 Through these deliverables, we aim to bring our goals to fruition, harnessing the collective power of our community for the benefit of all.
 
