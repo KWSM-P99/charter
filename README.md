@@ -5,16 +5,20 @@
 </div>
 <div align="center">
   <h1>Team Charter</h1>
-<p align="center">A charter for successful community software development. This central repository details the team's processes, project standards, schedules, and structure. It'll serve as the unified reference for our approach to coordinating and executing software projects.</p>
+  <p align="center">A charter for successful community software development. This central repository details the team's processes, project standards, schedules, and structure. It'll serve as the unified reference for our approach to coordinating and executing software projects.</p>
 
-<div align="center">
-  
-[Goals & Objectives »](https://github.com/KWSM-P99/project-governance/blob/main/GOALS.md)<br>
-[Our Projects »](https://github.com/KWSM-P99/project-governance/edit/main/README.md)<br>
-[Roles & Responsibilities »](https://github.com/KWSM-P99/project-governance/edit/main/README.md)<br>
-[Contribution guideline »](https://github.com/KWSM-P99/project-governance/edit/main/README.md)<br>
+  <div align="center">
+    
+  1. [Goals & Objectives »](https://github.com/KWSM-P99/project-governance/blob/main/GOALS.md)<br>
+  2. [Current Projects »](https://github.com/KWSM-P99/project-governance)<br>
+  3. [Project Proposals »](https://github.com/KWSM-P99/project-governance)<br>
+  4. [Change Management »](https://github.com/KWSM-P99/project-governance)<br>
+  5. [Roles & Responsibilities »](https://github.com/KWSM-P99/project-governance)<br>
+  6. [Contribution Guideline »](https://github.com/KWSM-P99/project-governance)<br>
+  7. [Onboarding Process »](https://github.com/KWSM-P99/project-governance)<br>
+  8. [Schedule of Events »](https://github.com/KWSM-P99/project-governance)<br>
 
-</div>
+  </div>
 </div>
 
 
