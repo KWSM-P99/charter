@@ -9,14 +9,14 @@
 
   <div align="center">
     
-  [Goals & Objectives »](https://github.com/KWSM-P99/project-governance/blob/main/GOALS.md)<br>
-  [Current Projects »](https://github.com/KWSM-P99/project-governance)<br>
-  [Project Proposals »](https://github.com/KWSM-P99/project-governance)<br>
-  [Change Management »](https://github.com/KWSM-P99/project-governance)<br>
-  [Roles & Responsibilities »](https://github.com/KWSM-P99/project-governance)<br>
-  [Contribution Guideline »](https://github.com/KWSM-P99/project-governance)<br>
-  [Onboarding Process »](https://github.com/KWSM-P99/project-governance)<br>
-  [Schedule of Events »](https://github.com/KWSM-P99/project-governance)<br>
+  [Goals & Objectives »](https://github.com/KWSM-P99/charter/blob/main/README.md#goals--objectives)<br>
+  [Current Projects »](https://github.com/KWSM-P99/charter/blob/main/README.md#current-projects)<br>
+  [Project Proposals »](https://github.com/KWSM-P99/charter/blob/main/README.md#project-proposals)<br>
+  [Change Management »](https://github.com/KWSM-P99/charter/blob/main/README.md#change-management)<br>
+  [Roles & Responsibilities »](https://github.com/KWSM-P99/charter/blob/main/README.md#roles--responsibilities)<br>
+  [Contribution Guideline »](https://github.com/KWSM-P99/charter/blob/main/README.md#contribution-guidelines)<br>
+  [Onboarding Process »](https://github.com/KWSM-P99/charter/blob/main/README.md#onboarding-process)<br>
+  [Schedule of Events »](https://github.com/KWSM-P99/charter/blob/main/README.md#schedule-of-events)<br>
 
   </div>
 </div>
