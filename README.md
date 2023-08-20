@@ -20,25 +20,31 @@
 
 ##
 
-### Why do we need structure?
-Herding cats is hard. Mobilizing that herd to build software, harder.
+## Why do we need structure?
 
-### What is the goal of this charter?
-Return value to our community by producing tools tailored to our communities unique needs.  Those tools are open-source and any member of the community should be able to contribute towards our overall success.
+The journey from a scattered idea to a successful implementation is riddled with challenges. Just as it's hard to herd cats, guiding a diverse team of passionate individuals towards building coherent and effective software can be even more daunting. A structured approach doesn't just bring order to chaos; it aligns our collective energy, ensuring that every member is rowing in the same direction and amplifying our potential.
 
-### How we plan to achieve that goal?
-We will maintain key items in this repository that enable us to accomplish the goal of organization. 
+## What is the goal of this charter?
 
-Deliverables:
-- Current goals and objectives approved by the steering commitee
-- Key roles & responsibilities
-- Contribution guidelines
-- A process to onboard community members
-- A process to review new project proposals
-- A process to make changes to existing projects
-- A list of current projects
-- A schedule of monthly events where the team sync
-- A record of event agenda items
+At the heart of our endeavors is our community. Our aim is to consistently provide value by creating tools that aren’t just effective but are specially designed to cater to the unique needs and nuances of our community. By embracing the open-source ethos, we not only invite transparency but also encourage every community member to play an active role. Everyone should feel empowered to contribute, provide insights, and shape the tools that we build. Our ultimate objective? To collectively drive our community towards success.
+
+## How we plan to achieve that goal?
+
+Our strategy is rooted in organization and clarity. This repository is more than just a digital space; it's the backbone of our mission. By housing key resources, guidelines, and documents here, we ensure that every team member has access to a clear roadmap. It's not just about maintaining items; it's about fostering an environment where collaboration thrives. Here, every idea finds its footing, every challenge is addressed head-on, and our collective goals are translated into actionable tasks.
+
+### Deliverables
+
+- ***Current Goals and Objectives:*** Outlined and approved by the steering committee to ensure alignment with the broader vision.
+- ***Key Roles & Responsibilities:*** Defined to bring clarity to individual and group expectations and ensure smooth operations.
+- ***Contribution Guidelines:*** Framed to encourage and facilitate seamless contributions from both internal team members and the wider community.
+- ***Community Onboarding Process:*** Designed to welcome, educate, and integrate new community members, ensuring they feel valued and informed.
+- ***New Project Proposal Review:*** A systematic approach to vetting and incorporating new project ideas, ensuring alignment with our objectives.
+- ***Change Management for Projects:*** Processes in place to ensure that modifications to existing projects are done thoughtfully and in alignment with our standards.
+- ***List of Current Projects:*** Regularly updated to provide a snapshot of ongoing efforts and initiatives.
+- ***Monthly Events Schedule:*** A pre-defined calendar for team synchronizations, fostering regular communication and collaboration.
+- ***Event Agenda Records:*** Maintained to provide transparency, accountability, and historical context for our meetings and decisions.
+
+Through these deliverables, we aim to bring our goals to fruition, harnessing the collective power of our community for the benefit of all.
 
 ##
 
