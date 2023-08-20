@@ -32,17 +32,18 @@ At the heart of our endeavors is our community. Our aim is to consistently provi
 
 Our strategy is rooted in organization and clarity. This repository is more than just a digital space; it's the backbone of our mission. By housing key resources, guidelines, and documents here, we ensure that every team member has access to a clear roadmap. It's not just about maintaining items; it's about fostering an environment where collaboration thrives. Here, every idea finds its footing, every challenge is addressed head-on, and our collective goals are translated into actionable tasks.
 
-| **Deliverable**                     | **Description**                                                                                                                                                      |
-|------------------------------------|-----------------------------------|
-| Current Goals and Objectives   | Outlined and approved by the steering committee to ensure alignment with the broader vision.                                                                         |
-| Key Roles & Responsibilities  | Defined to bring clarity to individual and group expectations and ensure smooth operations.                                                                           |
-| Contribution Guidelines      | Framed to encourage and facilitate seamless contributions from both internal team members and the wider community.                                                   |
-| Community Onboarding Process   | Designed to welcome, educate, and integrate new community members, ensuring they feel valued and informed.                                                            |
-| New Project Proposal Review    | A systematic approach to vetting and incorporating new project ideas, ensuring alignment with our objectives.                                                        |
-| Change Management for Projects | Processes in place to ensure that modifications to existing projects are done thoughtfully and in alignment with our standards.                                      |
-| List of Current Projects       | Regularly updated to provide a snapshot of ongoing efforts and initiatives.                                                                                         |
-| Monthly Events Schedule       | A pre-defined calendar for team synchronizations, fostering regular communication and collaboration.                                                                 |
-| Event Agenda Records          | Maintained to provide transparency, accountability, and historical context for our meetings and decisions.                                                           |
+| **Deliverable** | **Description** |
+|---|---|
+| Current Goals and Objectives | Outlined and approved by the steering committee to ensure alignment with the broader vision. |
+| Key Roles & Responsibilities | Defined to bring clarity to individual and group expectations and ensure smooth operations. |
+| Contribution Guidelines | Framed to encourage and facilitate seamless contributions from both internal team members and the wider community. |
+| Community Onboarding Process | Designed to welcome, educate, and integrate new community members, ensuring they feel valued and informed. |
+| New Project Proposal Review | A systematic approach to vetting and incorporating new project ideas, ensuring alignment with our objectives. |
+| Change Management for Projects | Processes in place to ensure modifications to existing projects are done thoughtfully and in alignment with our standards. |
+| List of Current Projects | Regularly updated to provide a snapshot of ongoing efforts and initiatives. |
+| Monthly Events Schedule | A pre-defined calendar for team synchronizations, fostering regular communication and collaboration. |
+| Event Agenda Records | Maintained to provide transparency, accountability, and historical context for our meetings and decisions. |
+
 
 Through these deliverables, we aim to bring our goals to fruition, harnessing the collective power of our community for the benefit of all.
 
