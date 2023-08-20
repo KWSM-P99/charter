@@ -9,14 +9,14 @@
 
   <div align="center">
     
-  1. [Goals & Objectives »](https://github.com/KWSM-P99/project-governance/blob/main/GOALS.md)<br>
-  2. [Current Projects »](https://github.com/KWSM-P99/project-governance)<br>
-  3. [Project Proposals »](https://github.com/KWSM-P99/project-governance)<br>
-  4. [Change Management »](https://github.com/KWSM-P99/project-governance)<br>
-  5. [Roles & Responsibilities »](https://github.com/KWSM-P99/project-governance)<br>
-  6. [Contribution Guideline »](https://github.com/KWSM-P99/project-governance)<br>
-  7. [Onboarding Process »](https://github.com/KWSM-P99/project-governance)<br>
-  8. [Schedule of Events »](https://github.com/KWSM-P99/project-governance)<br>
+  [Goals & Objectives »](https://github.com/KWSM-P99/project-governance/blob/main/GOALS.md)<br>
+  [Current Projects »](https://github.com/KWSM-P99/project-governance)<br>
+  [Project Proposals »](https://github.com/KWSM-P99/project-governance)<br>
+  [Change Management »](https://github.com/KWSM-P99/project-governance)<br>
+  [Roles & Responsibilities »](https://github.com/KWSM-P99/project-governance)<br>
+  [Contribution Guideline »](https://github.com/KWSM-P99/project-governance)<br>
+  [Onboarding Process »](https://github.com/KWSM-P99/project-governance)<br>
+  [Schedule of Events »](https://github.com/KWSM-P99/project-governance)<br>
 
   </div>
 </div>
