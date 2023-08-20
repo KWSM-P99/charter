@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[Goals & Objectives »](https://github.com/KWSM-P99/project-governance/edit/main/GOALS.md)<br>
+[Goals & Objectives »](https://github.com/KWSM-P99/project-governance/blob/main/GOALS.md)<br>
 [Our Projects »](https://github.com/KWSM-P99/project-governance/edit/main/README.md)<br>
 [Roles & Responsibilities »](https://github.com/KWSM-P99/project-governance/edit/main/README.md)<br>
 [Contribution guideline »](https://github.com/KWSM-P99/project-governance/edit/main/README.md)<br>
