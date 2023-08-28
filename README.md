@@ -56,23 +56,39 @@ Through these deliverables, we aim to bring our goals to fruition, harnessing th
 # Goals & Objectives
 In our journey towards achieving excellence, our goals and objectives stand as guiding stars. They provide direction, ensuring that every effort aligns with the organization's broader vision. In this section, we enumerate the aims that drive our endeavors, fueling our passion and commitment.
 
+> draft: add a list of high level goals (problem statements) as published by guild officers. then, they are further broken down into objectives (features) as published by the dev team
+
 # Current Projects
 Transparency is key to collaborative success. In this section, we provide a snapshot of our ongoing initiatives, offering insights into the breadth and depth of our endeavors. Each project is a testament to our commitment, and here we shine a light on our current focal points.
+
+> title, purpose, and maintainers for each project with a link to the repo
 
 # Project Proposals
 Innovation is the lifeblood of progress. To harness the fresh ideas our community brings, we've established a systematic approach to vet and integrate new project proposals. This section delves into the pathway from ideation to execution, ensuring alignment with our collective objectives.
 
+> should cover the process to submit a proposal and how the officer and dev team accept or put it on hold. should have a list of proposed, accepted, active maintenance, and archived. should it be a static list or a project board? 
+
 # Change Management
 As we evolve, so do our projects. To ensure that modifications enhance rather than disrupt, we've laid out a clear procedure for change management. Here, we guide you through the steps to propose, review, and implement changes, always keeping our standards at the forefront.
+
+> high level overview of the entire process, should be writted for ease of use and understanding. github projects should be the focal point for everything
 
 # Roles & Responsibilities
 A well-defined team structure ensures efficiency and clarity. By delineating roles and responsibilities, we ensure every member knows their part, empowering them to perform at their best. This section lays out the roles within our team and the duties they encompass, paving the way for smooth operations.
 
+> project roles, officers, devs, what other roles?
+
 # Contribution Guidelines
 Every voice in our community has the potential to make a significant impact. Our contribution guidelines exist to streamline the process, allowing for clear and constructive input from all members. Here, we walk you through the steps to make meaningful contributions to our shared mission.
+
+> staff rules equivalent... formatting, commit and pr templates
 
 # Onboarding Process
 We believe in the power of unity and collaboration. To foster this, our onboarding process is designed to welcome new members into our fold, providing them with the tools and knowledge they need. This section elaborates on how we integrate newcomers, ensuring they feel valued and informed.
 
+> is this duplicative of contribution guidelines and can those sections be consolidated?
+
 # Schedule of Events
 Regular communication fosters cohesion and collaboration. Our monthly events are platforms for dialogue, updates, and brainstorming. This section lays out our calendar of events, ensuring that every member stays connected and informed.
+
+> rough cut of the key scheduled events. what are they and how often? what is the trigger criteria?
