@@ -81,14 +81,54 @@ A well-defined team structure ensures efficiency and clarity. By delineating rol
 # Contribution Guidelines
 Every voice in our community has the potential to make a significant impact. Our contribution guidelines exist to streamline the process, allowing for clear and constructive input from all members. Here, we walk you through the steps to make meaningful contributions to our shared mission.
 
+This section is a set of guidelines to help you contribute to the projects.
+
 > staff rules equivalent... formatting, commit and pr templates
 
-# Onboarding Process
-We believe in the power of unity and collaboration. To foster this, our onboarding process is designed to welcome new members into our fold, providing them with the tools and knowledge they need. This section elaborates on how we integrate newcomers, ensuring they feel valued and informed.
+## Code of Conduct
+All contributors are expected to follow our [Code of Conduct](LINK-TO-YOUR-CODE-OF-CONDUCT.md). Please ensure you are familiar with it.
 
-> is this duplicative of contribution guidelines and can those sections be consolidated?
+## Prerequisites
+Before you begin, ensure you have the following software installed:
+- Git
+- Node.js (for JavaScript-based projects)
+- [Any other specific software]
+
+## Setting Up Development Environment
+1. Fork the repository.
+2. Clone your forked repository: `git clone YOUR-FORKED-REPO-URL`
+3. Navigate to the project directory: `cd project-name`
+4. Install dependencies: `npm install` (for JavaScript-based projects)
+
+## How to Contribute
+1. Create a new branch for your feature or bugfix: `git checkout -b your-branch-name`
+2. Make your changes.
+3. Commit your changes with a meaningful commit message.
+4. Push your changes to your forked repository.
+5. Open a pull request against the main repository.
+
+## Contribution Standards
+- Follow the coding standards and style guidelines.
+- Write meaningful commit messages.
+- Add tests for your changes to ensure stability.
+- Update documentation as necessary.
+
+## Submitting Issues
+When submitting a new issue, please follow the provided template. Provide as much detail as possible to help the maintainers understand and reproduce the issue.
+
+## Review Process
+Once you submit a pull request, it will be reviewed by the maintainers. Feedback may be provided, and changes may be requested. Once your pull request is approved, it will be merged into the main codebase.
+
+## Recognition
+All contributors will be recognized in our README. Thank you for your contributions!
+
+## Communication
+For any questions or discussions, please join our Discord and ask questions in the #kittendev-chat channel.
+
 
 # Schedule of Events
 Regular communication fosters cohesion and collaboration. Our monthly events are platforms for dialogue, updates, and brainstorming. This section lays out our calendar of events, ensuring that every member stays connected and informed.
 
 > rough cut of the key scheduled events. what are they and how often? what is the trigger criteria?
+
+
